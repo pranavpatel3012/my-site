@@ -3,6 +3,7 @@ title: Pranav Patel
 tags:
   - "#pranav"
 ---
+
 ## Hey there! I'm Pranav!
 
 Welcome to my little corner of the internet.
@@ -18,6 +19,7 @@ Other than being software engineer, I love to watch Anime and sci-fi movies/web-
 I'm all for connecting over our shared love for technology. Let's swap coding tips, geek out over latest tech, and spark some meaningful conversations :)
 
 Connect with me over:
+
 - [Github](https://github.com/pranavpatel3012/)
 - [LinkedIn](https://www.linkedin.com/in/pranav3012/)
 - [Twitter](https://x.com/_pranav30)
