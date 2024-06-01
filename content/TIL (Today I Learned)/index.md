@@ -1,5 +1,5 @@
 ---
-title: Today I Learned
+title: TIL
 tags:
   - "#TIL"
 ---
