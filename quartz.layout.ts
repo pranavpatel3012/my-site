@@ -1,3 +1,4 @@
+import { ExplorerConfig } from "./custom.config"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -8,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/pranavpatel3012",
-      "LinkedIn": "https://www.linkedin.com/in/pranav3012/",
+      LinkedIn: "https://www.linkedin.com/in/pranav3012/",
     },
   }),
 }
@@ -26,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(ExplorerConfig)),
   ],
   right: [
     Component.Graph(),
